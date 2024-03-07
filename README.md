@@ -8,18 +8,24 @@ The project uses several scripts that create and update the essential software u
 
 The mirror consists of the following software and data:
 
-•  [Tails](https://tails.net/) distribution (amd64)
-•  [Debian](https://www.debian.org/) distribution and package repository (amd64)
-•  [Ubuntu](https://ubuntu.com/) distribution (amd64)
-•  Ubuntu, Debian, [KaliLinux](https://www.kali.org/) images for [WSL](https://learn.microsoft.com/en-us/windows/wsl/about)
-•  [F-Droid](https://f-droid.org/) repository 
-•  [Termux](https://termux.dev/) repository
-•  [Rustup](https://rustup.rs/), [Crates.io](https://crates.io/) mirrors
-•  [PyPI](https://pypi.org/) mirror with packages for Python 3.7 and higher
-•  [Cygwin](https://www.cygwin.com/) repository mirror
-•  [Kiwix](https://kiwix.org/) executables mirror and [Wikipedia ZIM archives](https://ftp.fau.de/kiwix/zim/wikipedia/) in several languages.
+- [Tails](https://tails.net/) distribution (amd64)
+- [Debian](https://www.debian.org/) distribution and package repository (amd64)
+- [Ubuntu](https://ubuntu.com/) distribution (amd64)
+- Ubuntu, Debian, [KaliLinux](https://www.kali.org/) images for [WSL](https://learn.microsoft.com/en-us/windows/wsl/about)
+- [F-Droid](https://f-droid.org/) repository 
+- [Termux](https://termux.dev/) repository
+- [Rustup](https://rustup.rs/), [Crates.io](https://crates.io/) mirrors
+- [PyPI](https://pypi.org/) mirror with packages for Python 3.7 and higher
+- [Cygwin](https://www.cygwin.com/) repository mirror
+- [Kiwix](https://kiwix.org/) executables mirror and [Wikipedia ZIM archives](https://ftp.fau.de/kiwix/zim/wikipedia/) in several languages.
 
 
 # Third party tools
 
 * [panamax-rs](https://github.com/panamax-rs)
+
+## License
+This script is licensed under the [WTFPL](https://en.wikipedia.org/wiki/WTFPL) license.
+
+## Author
+The author chose not to disclose details of his identity.
